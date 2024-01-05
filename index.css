@@ -12,7 +12,8 @@ body {
   flex-direction: column;
   align-items: start;
   justify-content: center;
-
+  border: 5px solid white;
+  border-radius: 20px;
   display: flex;
   padding: 60px 50px;
 }
@@ -40,6 +41,8 @@ button {
   border-radius: 5px;
   display: flex;
   flex-direction: row;
+  color: rgba(16, 185, 129, 1);
+  width: 191px;
 }
 
 .display {
